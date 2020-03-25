@@ -2,3 +2,4 @@ v2    行后加1
 删除了原第一行 master edited
 删除了原第一行 hot_fix edited
 又增加了一行
+test remote add
